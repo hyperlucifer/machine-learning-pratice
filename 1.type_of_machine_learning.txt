@@ -1,0 +1,42 @@
+def =machine learning is a technique to implement AI that can learn from the data 
+     by themselves without being explicity programmed 
+
+
+types=
+    supervised=the machine learning algorithm learns from labelled data
+
+    eg=
+        lets say , an algorithm wants to detetict weather the given image is of apple 
+        or mango 
+
+        then we will take the serival images of apple and mangoes and tell these 
+        machines that these are apples and these are mangoes,,these names are called labels 
+
+        we will feed these data to our machine learning model then our ml model trys to find pattern
+        in these images and onces its learn from data 
+        then if we provide the unknown image then it can successfuly recrognize its apple or mango
+        this is a supervised learning
+
+    unsupervised learning=the machine learning algorithm learn from unlabelled data
+
+    eg= 
+       take the simmier example
+
+       in this we will give serival images of apple and mango to our ml model and we wount tell that 
+       which image belong to which 
+
+       now it trys find a pattern and group all the images in group1 and group2 and when you give another 
+       image it will tell weather it belong to group1 or group2
+       this called unsupervised learning
+
+    Reinforcement learning=in this area of ml concered with how intelligent agents take action in an 
+                           to maximize its rewards
+
+        it has 4 major accepts
+        1)Environment 
+        2)agent
+        3)action
+        4)reward
+
+        here the agent takes a action in Environment and the action is right the agent gets a positive reward
+        else negitive 

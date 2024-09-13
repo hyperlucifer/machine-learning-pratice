@@ -1,0 +1,22 @@
+unsupervised learning
+
+types of unsupervised learning
+
+    1)Clustering
+        Clustering is an unsupervised task which involves grouping the 
+        simmier data points
+
+    2)Association
+        Association is a unsupervised task that is used to find important 
+        relationship between data points 
+        eg 
+            simililer algo which the youtube or other Social media use to suggess us 
+            the content we watch frequently
+
+algorithms
+
+1)K-Means Clusteringd
+2)Hierarchical Clustering
+3)principal component analysis 
+4)Apriori
+5)Eclat21987

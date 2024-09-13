@@ -1,0 +1,21 @@
+supervised learning 
+
+types of supervised learning
+
+1)classification 
+    classification is about predicting a class of discrete values 
+    eg male of female ,,true or false
+
+    algorithms
+        1)Decision tree classification
+        2)Random forest classification
+        3)K-nearest Neighbor
+        4)Logistic Regression
+
+2)Regression 
+    Regression is about predicting a quantity or continous values
+    eg salary,age,price 
+
+    algorithms
+        1)polynomal Regression
+        2)Support vector machines
