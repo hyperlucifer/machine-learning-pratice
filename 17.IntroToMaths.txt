@@ -1,0 +1,27 @@
+There are 4 major subjects of maths 
+
+1)Liner algebra
+= here we are dealing with vactors and matrix 
+2)statices 
+= data = mean value of different coloums, standerd deviation ,,to see any outlayers in our dataset
+3)probablity
+= it is liklywhood of some decitions
+4)calculas
+= a)integration
+  b)deffiration
+  it is used to obtimise the model 
+
+
+ther are 3 main pillers of machine learning
+1)data 
+= for understanding the data better we need statices,,the liner algebra is also useful here 
+  ,,when there is data poins of 10 rows ,,10 coloums then we can say a matrix of 10x10 so all the 
+  computation would be in the form of matrix
+2)model
+= all the computation are based on Liner algebra ,,and servel staticial conceps are also integrated in 
+= lots of machine learning model
+3)training
+= it is not saficient to training the model with the data ,,so we need to obtimise this machine learning
+  model we need to do a lot of twicking and this is where calculas will help us 
+
+these are verious aspects where maths can be used 

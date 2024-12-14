@@ -1,0 +1,15 @@
+the linear algebra is all about dealing with liner equations 
+the building block for this are vactors and matrises
+
+
+scaler is just a number that tells a value 
+eg 23
+
+vactor is a list of number 
+it can be only row or only coloum
+eg [12,43,5,23,4]
+     or
+   [ 23,
+     54,
+     3,
+     78 ]
